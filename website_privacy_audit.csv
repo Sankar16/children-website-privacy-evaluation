@@ -1,0 +1,41 @@
+website,privacy_policy_link_present,privacy_policy_child_section,asks_for_personal_data,parental_consent_mechanism,third_party_trackers_detected,ads_visible_to_children,ad_type,child_friendly_UI
+https://pbskids.org,Yes,Yes,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.nickjr.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://disneyjunior.disney.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://www.sesamestreet.org,No,Not Found,No,No,googletagmanager.com,Manual,Manual,Manual
+https://kids.nationalgeographic.com,Yes,Yes,No,No,"facebook.net, twitter.com",Manual,Manual,Manual
+https://www.abcya.com,No,Not Found,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.starfall.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://www.funbrain.com,No,Not Found,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.poptropica.com,Yes,Not Found,No,No,"googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.cartoonnetwork.com,Yes,Yes,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.highlightskids.com,Yes,Yes,No,No,googletagmanager.com,Manual,Manual,Manual
+https://kids.scholastic.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://www.crayola.com,Yes,Yes,Yes,No,googletagmanager.com,Manual,Manual,Manual
+https://kids.lego.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://www.fisher-price.com,Yes,Yes,Yes,Yes,None,Manual,Manual,Manual
+https://www.coolmathgames.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.brainpop.com,No,Not Found,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.funology.com,Yes,Yes,No,No,"googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.switchzoo.com,Yes,No,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.nwf.org/Kids,No,Not Found,No,No,Error,Manual,Manual,Manual
+https://www.abcmouse.com,No,Not Found,No,No,None,Manual,Manual,Manual
+https://www.education.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.turtlediary.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.roomrecess.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.splashlearn.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
+https://www.e-learningforkids.org,No,Not Found,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.coolkidfacts.com,Yes,No,Yes,No,"googletagmanager.com, facebook.net",Manual,Manual,Manual
+https://kids.nationalgeographic.com/littlekids,Yes,Yes,No,No,"facebook.net, twitter.com",Manual,Manual,Manual
+https://www.nasa.gov/kidsclub,Yes,Yes,Yes,No,googletagmanager.com,Manual,Manual,Manual
+https://www.dkfindout.com,Yes,Yes,No,No,googletagmanager.com,Manual,Manual,Manual
+https://www.storylineonline.net,Yes,Yes,Yes,No,"google-analytics.com, googletagmanager.com",Manual,Manual,Manual
+https://abc.com/shows/abc-kids,No,Not Found,No,No,twitter.com,Manual,Manual,Manual
+https://www.safekidgames.com,Yes,Yes,No,No,googletagmanager.com,Manual,Manual,Manual
+https://kids.poki.com,Yes,No,No,No,None,Manual,Manual,Manual
+https://www.owlieboo.com,Yes,Yes,No,No,None,Manual,Manual,Manual
+https://www.happyclicks.net,Yes,No,No,No,"googletagmanager.com, doubleclick.net",Manual,Manual,Manual
+https://www.gamesgames.com/games/kids-games,Yes,Yes,No,No,twitter.com,Manual,Manual,Manual
+https://www.boomerangtv.co.uk/games,Yes,No,No,No,None,Manual,Manual,Manual
+https://kids.nationalgeographic.com/games,Yes,Yes,No,No,"facebook.net, twitter.com",Manual,Manual,Manual
+https://www.timeforkids.com,Yes,Yes,No,No,"google-analytics.com, googletagmanager.com, twitter.com",Manual,Manual,Manual
