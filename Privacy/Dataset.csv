@@ -1,0 +1,42 @@
+site_name,url,domain_filter,category,privacy_policy_link_present,"privacy_policy_child_section
+",asks_for_personal_data,parental_consent_mechanism,"third_party_trackers_detected
+",ads_visible_to_children,ad_type,child_friendly_UI,Notes
+PBS Kids,https://pbskids.org,domain:pbskids.org,Entertainment,Yes,Yes,No,Yes (if needed),Yes (analytics),No,N/A	,Yes,"Strong on privacy, no ads"
+Nick Jr,https://www.nickjr.com,domain:nickjr.com,Entertainment,Yes,No,No,No,Yes,Yes,"Commercial, Promo",Yes,"Ads mostly for own shows, privacy policy covers under 13"
+Disney Junior,https://disneyjunior.disney.com,domain:disney.com,Entertainment,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,"Strict privacy info, own network ads"
+Sesame Street,https://www.sesamestreet.org,domain:sesamestreet.org,Entertainment,Yes,No,No,No,Yes,No,N/A	,Yes,"No direct ads to children, general sponsorship disclosures"
+NatGeo Kids,https://kids.nationalgeographic.com,domain:nationalgeographic.com,General Portal,Yes,Yes,No,Yes,Yes,No,"Commercial, Promo",Yes,"Disney policy; family and kid sections prominent"
+ABCya,https://www.abcya.com,domain:abcya.com,Education,Yes,No,No,Yes,Yes,No,"Educational, Commercial	",Yes,"kidSAFE certified, contextual ads only"
+Starfall,https://www.starfall.com,domain:starfall.com,Education,Yes,Yes,No,N/A,No,No,N/A	,Yes,"No ads, no profiles, COPPA/FERPA adherence"
+Funbrain,https://www.funbrain.com,domain:funbrain.com,Games,Yes,No,No,No,Yes,Yes,"Educational, Commercial	",Yes,"No personal info collected from kids"
+Poptropica,https://www.poptropica.com,domain:poptropica.com,Games,Yes,No,No,No,Yes,Yes,"Commercial, Promo",No,"Direct ads, parental notice if collecting PII"
+Cartoon Network,https://www.cartoonnetwork.com,domain:cartoonnetwork.com,Entertainment,Yes,Yes,Yes,No,Yes,Yes,Commercial,Yes,"Signup, Personal Information and in house streaming ads"
+Highlights Kids,https://www.highlightskids.com,domain:highlightskids.com,General Portal,Yes,Yes,No,No,Yes,Yes,"Contextual, sponsor",Yes,"Parental rights, aggregate ads, strong privacy"
+Scholastic Kids,https://kids.scholastic.com,domain:scholastic.com,Education,Yes,Yes,No,No,No,No,Traditional/contextual,Yes,"No sale, COPPA-compliant, no behavioral ads"
+Crayola,https://www.crayola.com,domain:crayola.com,General Portal,Yes,Yes,Yes,No,Yes,Yes,Promotional/contextual,Yes,"Parental opt-out, analytics, careful kid privacy"
+LEGO Kids,https://kids.lego.com,domain:lego.com,Entertainment,Yes,Yes,No,No,No,Yes,Own products/promo,Yes,"Strict protections, audits, limited ads"
+Fisher-Price,https://www.fisher-price.com,domain:fisher-price.com,Entertainment,Yes,Yes,Yes,Yes,No,Yes,Very limited,Yes,"ESRB cert, limited data, parental controls"
+Cool Math Games,https://www.coolmathgames.com,domain:coolmathgames.com,Games,Yes,Yes,No,No,Yes,Yes,Interest-based (13+),Yes,"Strong on <13 protection, parent opt-out"
+BrainPOP,https://www.brainpop.com,domain:brainpop.com,Education,No,No,No,No,Yes,Yes,Educational/promo (adults),Yes,"Data for adults, child privacy strong"
+Funology,https://www.funology.com,domain:funology.com,Education,Yes,Yes,No,No,Yes,Yes,Third-party network,Yes,"No sharing child info, but serves 3rd party ads"
+Switch Zoo,https://www.switchzoo.com,domain:switchzoo.com,Games,Yes,No,No,No,Yes,Yes,Network ads,Yes,"Basic privacy, some analytics, not as strict as larger brands"
+National Wildlife Federation Kids,https://www.nwf.org/Kids,domain:nwf.org,Education,Yes,Yes,No,Yes,No,Yes,"Educational, Commercial",Yes,
+ABC Mouse,https://www.abcmouse.com,domain:abcmouse.com,Education,Yes,Yes,No,Yes,No,No,N/A,Yes,Subscription based site
+Education.com,https://www.education.com,domain:education.com,Education,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+TurtleDiary,https://www.turtlediary.com,domain:turtlediary.com,Games,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+RoomRecess,https://www.roomrecess.com,domain:roomrecess.com,Games,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+SplashLearn,https://www.splashlearn.com,domain:splashlearn.com,Education,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+E-Learning for Kids,https://www.e-learningforkids.org,domain:e-learningforkids.org,Education,No,No,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+CoolKidFacts,https://www.coolkidfacts.com,domain:coolkidfacts.com,Education,Yes,No,Yes,Yes,Yes,Yes,"Commercial, Promo",Yes,
+National Geographic Little Kids,https://kids.nationalgeographic.com/littlekids,domain:nationalgeographic.com,Education,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+NASA Kids' Club,https://www.nasa.gov/kidsclub,domain:nasa.gov,Education,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,
+DK Find Out!,https://www.dkfindout.com,domain:dkfindout.com,Education,Yes,No,No,No,Yes,Yes,Education,Yes,
+Storyline Online,https://www.storylineonline.net,domain:storylineonline.net,Entertainment,Yes,No,No,Yes,Yes,Yes,"Education, Entertainment",Yes,
+ABC Kids,https://www.abc.net.au/abckids,domain:abc.net.au,Entertainment,Yes,No,No,No,No,No,N/A,Yes,
+Safe Kid Games,https://www.safekidgames.com,domain:safekidgames.com,Games,Yes,No,No,No,Yes,Yes,Education,Yes,
+Poki Kids,https://kids.poki.com,domain:poki.com,Games,Yes,No,No,No,No,No,N/A,Yes,
+OWLIE BOO,https://www.owlieboo.com,domain:owlieboo.com,Games,Yes,No,No,No,Yes,Yes,Entertainment,Yes,
+HappyClicks,https://www.happyclicks.net,domain:happyclicks.net,Games,Yes,No,No,No,Yes,Yes,Education,Yes,
+GamesGames Kids,https://www.gamesgames.com/games/kids-games,domain:gamesgames.com,Games,Yes,No,No,No,Yes,Yes,Education,Yes,
+NatGeo Kids (Games section),https://kids.nationalgeographic.com/games,domain:nationalgeographic.com,General Portal,Yes,Yes,No,No,Yes,No,N/A,Yes,
+Time for Kids,https://www.timeforkids.com,domain:timeforkids.com,Education,Yes,No,Yes,No,Yes,No,N/A,Yes,
