@@ -1,13 +1,13 @@
 site_name,url,domain_filter,category,privacy_policy_link_present,"privacy_policy_child_section
 ",asks_for_personal_data,parental_consent_mechanism,"third_party_trackers_detected
 ",ads_visible_to_children,ad_type,child_friendly_UI,Notes
-PBS Kids,https://pbskids.org,domain:pbskids.org,Entertainment,Yes,Yes,No,Yes (if needed),Yes (analytics),No,N/A	,Yes,"Strong on privacy, no ads"
+PBS Kids,https://pbskids.org,domain:pbskids.org,Entertainment,Yes,Yes,No,Yes,Yes (analytics),No,"N/A	",Yes,"Strong on privacy, no ads"
 Nick Jr,https://www.nickjr.com,domain:nickjr.com,Entertainment,Yes,No,No,No,Yes,Yes,"Commercial, Promo",Yes,"Ads mostly for own shows, privacy policy covers under 13"
 Disney Junior,https://disneyjunior.disney.com,domain:disney.com,Entertainment,Yes,Yes,No,Yes,Yes,Yes,"Commercial, Promo",Yes,"Strict privacy info, own network ads"
-Sesame Street,https://www.sesamestreet.org,domain:sesamestreet.org,Entertainment,Yes,No,No,No,Yes,No,N/A	,Yes,"No direct ads to children, general sponsorship disclosures"
+Sesame Street,https://www.sesamestreet.org,domain:sesamestreet.org,Entertainment,Yes,No,No,No,Yes,No,"N/A	",Yes,"No direct ads to children, general sponsorship disclosures"
 NatGeo Kids,https://kids.nationalgeographic.com,domain:nationalgeographic.com,General Portal,Yes,Yes,No,Yes,Yes,No,"Commercial, Promo",Yes,"Disney policy; family and kid sections prominent"
 ABCya,https://www.abcya.com,domain:abcya.com,Education,Yes,No,No,Yes,Yes,No,"Educational, Commercial	",Yes,"kidSAFE certified, contextual ads only"
-Starfall,https://www.starfall.com,domain:starfall.com,Education,Yes,Yes,No,N/A,No,No,N/A	,Yes,"No ads, no profiles, COPPA/FERPA adherence"
+Starfall,https://www.starfall.com,domain:starfall.com,Education,Yes,Yes,No,N/A,No,No,"N/A	",Yes,"No ads, no profiles, COPPA/FERPA adherence"
 Funbrain,https://www.funbrain.com,domain:funbrain.com,Games,Yes,No,No,No,Yes,Yes,"Educational, Commercial	",Yes,"No personal info collected from kids"
 Poptropica,https://www.poptropica.com,domain:poptropica.com,Games,Yes,No,No,No,Yes,Yes,"Commercial, Promo",No,"Direct ads, parental notice if collecting PII"
 Cartoon Network,https://www.cartoonnetwork.com,domain:cartoonnetwork.com,Entertainment,Yes,Yes,Yes,No,Yes,Yes,Commercial,Yes,"Signup, Personal Information and in house streaming ads"
