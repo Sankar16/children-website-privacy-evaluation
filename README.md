@@ -153,11 +153,11 @@ pip install -r requirements.txt
 3. System Requirements for OpenWPM
 
 OpenWPM uses a real browser (Firefox) under the hood. Make sure you have:
-	•	Firefox installed
-	•	Geckodriver available in your PATH (often installable via your OS package manager)
+- Firefox installed
+- Geckodriver available in your PATH (often installable via your OS package manager)
 
 On macOS, a common pattern is:
-# example using Homebrew
+example using Homebrew
 brew install --cask firefox
 brew install geckodriver
 
@@ -176,9 +176,9 @@ This uses extract.py to crawl the curated list of ~40 children’s websites.
 python extract.py
 
 What it does:
-	•	Crawls each site in the websites list inside extract.py
-	•	Performs HTML-based static checks (third-party domains, ads, UI, COPPA signals)
-	•	Writes results to: website_privacy_audit_automated.csv
+- Crawls each site in the websites list inside extract.py
+- Performs HTML-based static checks (third-party domains, ads, UI, COPPA signals)
+- Writes results to: website_privacy_audit_automated.csv
 
 B. Dynamic Tracking Experiment (OpenWPM)
 
@@ -186,43 +186,43 @@ B. Dynamic Tracking Experiment (OpenWPM)
 python crawl_persona_final.py
 
 This script:
-	•	Sets up OpenWPM browser instrumentation.
-	•	Creates directories like:
-	•	datadir_child_persona_only_run1
-	•	datadir_adult_persona_only_run1
-	•	datadir_child_persona_only_run2
-	•	datadir_adult_persona_only_run2
-	•	datadir_child_same_sites_run1
-	•	datadir_adult_same_sites_run1
-	•	For each (persona, condition, run):
-	•	Visits all sites in the corresponding list
-	•	Waits a few seconds on each page
-	•	Logs HTTP traffic to crawl-data.sq
+- Sets up OpenWPM browser instrumentation.
+- Creates directories like:
+- datadir_child_persona_only_run1
+- datadir_adult_persona_only_run1
+- datadir_child_persona_only_run2
+- datadir_adult_persona_only_run2
+- datadir_child_same_sites_run1
+- datadir_adult_same_sites_run1
+- For each (persona, condition, run):
+- Visits all sites in the corresponding list
+- Waits a few seconds on each page
+- Logs HTTP traffic to crawl-data.sq
 
 2. Analyze OpenWPM Logs
 python analyze_persona_experiment.py
 
 This script:
-	•	Discovers all datadir_* folders under the project directory.
-	•	Loads crawl-data.sqlite from each.
-	•	Computes per-persona and per-condition metrics.
-	•	Outputs:
-  persona_condition_summary.csv
-  site_tracker_intensity_by_condition.csv
-  tracker_by_persona_condition.csv
+- Discovers all datadir_* folders under the project directory.
+- Loads crawl-data.sqlite from each.
+- Computes per-persona and per-condition metrics.
+- Outputs:
+persona_condition_summary.csv
+site_tracker_intensity_by_condition.csv
+tracker_by_persona_condition.csv
 
 Ethics and Usage Notice
 
 This project is intended for research and educational purposes only.
-	- Please respect each website’s robots.txt and terms of service.
-	- Do not use this code to perform high-frequency or abusive crawling.
-	- If you adapt this project, consider adding rate limiting and additional safeguards.
+- Please respect each website’s robots.txt and terms of service.
+- Do not use this code to perform high-frequency or abusive crawling.
+- If you adapt this project, consider adding rate limiting and additional safeguards.
 
 Credits
 
 This project was developed by:
-	- Sai Vineel Reddy Marreddy – static analysis, third-party / ads / UI / COPPA pipeline
-	- Yaswanth Mullamuri – static analysis, scoring design, and data processing
-	- FNU Sankar Raghuthaman – OpenWPM experiment design, crawling scripts
-	- Ravi Pavuluri – OpenWPM deployment, tracker analytics
+- Sai Vineel Reddy Marreddy – static analysis, third-party / ads / UI / COPPA pipeline
+- Yaswanth Mullamuri – static analysis, scoring design, and data processing
+- FNU Sankar Raghuthaman – OpenWPM experiment design, crawling scripts
+- - Ravi Pavuluri – OpenWPM deployment, tracker analytics
 with support and guidance from North Carolina State University.
