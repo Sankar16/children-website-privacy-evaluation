@@ -214,15 +214,15 @@ This script:
 Ethics and Usage Notice
 
 This project is intended for research and educational purposes only.
-	•	Please respect each website’s robots.txt and terms of service.
-	•	Do not use this code to perform high-frequency or abusive crawling.
-	•	If you adapt this project, consider adding rate limiting and additional safeguards.
+	- Please respect each website’s robots.txt and terms of service.
+	- Do not use this code to perform high-frequency or abusive crawling.
+	- If you adapt this project, consider adding rate limiting and additional safeguards.
 
 Credits
 
 This project was developed by:
-	•	Sai Vineel Reddy Marreddy – static analysis, third-party / ads / UI / COPPA pipeline
-	•	Yaswanth Mullamuri – static analysis, scoring design, and data processing
-	•	FNU Sankar Raghuthaman – OpenWPM experiment design, crawling scripts
-	•	Ravi Pavuluri – OpenWPM deployment, tracker analytics
+	- Sai Vineel Reddy Marreddy – static analysis, third-party / ads / UI / COPPA pipeline
+	- Yaswanth Mullamuri – static analysis, scoring design, and data processing
+	- FNU Sankar Raghuthaman – OpenWPM experiment design, crawling scripts
+	- Ravi Pavuluri – OpenWPM deployment, tracker analytics
 with support and guidance from North Carolina State University.
