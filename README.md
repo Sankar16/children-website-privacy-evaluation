@@ -220,9 +220,9 @@ This project is intended for research and educational purposes only.
 
 Credits
 
-This project was developed by:
+This project was developed by following with support and guidance from North Carolina State University.:
 - Sai Vineel Reddy Marreddy – static analysis, third-party / ads / UI / COPPA pipeline
 - Yaswanth Mullamuri – static analysis, scoring design, and data processing
 - FNU Sankar Raghuthaman – OpenWPM experiment design, crawling scripts
-- - Ravi Pavuluri – OpenWPM deployment, tracker analytics
-with support and guidance from North Carolina State University.
+- Ravi Pavuluri – OpenWPM deployment, tracker analytics
+
