@@ -1,4 +1,6 @@
-requests==2.32.3
-beautifulsoup4==4.12.3
-pandas==2.2.3
-tldextract==5.1.2
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+tldextract>=5.1.0
+pandas>=2.1.0
+openwpm>=0.31.0
+lxml>=5.0.0
